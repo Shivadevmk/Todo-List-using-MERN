@@ -49,7 +49,7 @@ Here’s how to run the app locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mern-todo.git
+git clone https://github.com/Shivadevmk/Todo-List-using-MERN.git
 cd mern-todo
 
 Set up the backend
